@@ -31,16 +31,16 @@ DHFR is a well-known enzyme involved in DNA synthesis, making it a classic targe
 
 ## Pipeline Architecture
 
-Sequence (FASTA)
-AlphaFold / ColabFold
-3D Protein Structure (PDB)
-Confidence Analysis (pLDDT)
-Protein Preparation (PDBQT)
-Ligand Preparation
-Docking (AutoDock Vina)
-Binding Pose + Score
-Residue Interaction Mapping
-AI-Assisted Scientific Interpretation
+- Sequence (FASTA)
+- AlphaFold / ColabFold
+- 3D Protein Structure (PDB)
+- Confidence Analysis (pLDDT)
+- Protein Preparation (PDBQT)
+- Ligand Preparation
+- Docking (AutoDock Vina)
+- Binding Pose + Score
+- Residue Interaction Mapping
+- AI-Assisted Scientific Interpretation
 
 ---
 
