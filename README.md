@@ -1,4 +1,9 @@
 # AI-Assisted-Structure-Based-Drug-Discovery-Pipeline
+
+![AlphaFold Protein](https://raw.githubusercontent.com/debabratapruseth/AI-Assisted-Structure-Based-Drug-Discovery-Pipeline/main/AlphaFold%20Protein%20Synthesis.png)
+
+*Figure: AI-predicted protein structure using AlphaFold*
+
 This project demonstrates an end-to-end AI-assisted structural biology workflow starting from a protein sequence and progressing to drug-binding hypothesis generation.
 
 Using AlphaFold (via ColabFold) and molecular docking (AutoDock Vina), the pipeline:
